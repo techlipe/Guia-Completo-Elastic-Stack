@@ -5,10 +5,10 @@
 
 Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos da Elastic _Stack_, todo em Português do Brasil.
 
-**Publico Alvo** 
-- Interessados em aprender sobre a _Stack_ de ferramentas da Elastic, independente do nível de conhecimento prévio.
+**Pra quem é esse material ?** 
+- Geral que está afim em aprender sobre a _Stack_ de ferramentas da Elastic, independente do nível de conhecimento prévio.
 
-**Objetivo** 
+**O que eu quero com tudo isso?** 
 - Quero tornar VOCÊ um _expert_ com toda a _Stack_ de produtos da Elastic, e ainda de quebra te preparar, caso tenha interesse, pras provas de Engenheiro Certificado.
 
 **Quem sou eu ?** 
