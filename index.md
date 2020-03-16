@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+| [Home](https://techlipe.github.io/guia-completo) |
 
-You can use the [editor on GitHub](https://github.com/techlipe/Guia-Completo-Elastic-Stack/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![TL](banner-tl.png)
+## Guia Completo da Elastic Stack
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos da Elastic _Stack_, todo em Português do Brasil.
 
-### Markdown
+**Publico Alvo** 
+- Interessados em aprender sobre a _Stack_ de ferramentas da Elastic, independente do nível de conhecimento prévio.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Objetivo** 
+- Quero tornar VOCÊ um _expert_ com toda a _Stack_ de produtos da Elastic, e ainda de quebra te preparar, caso tenha interesse, pras provas de Engenheiro Certificado.
+
+**Quem sou eu ?** 
+- Felipe Queiroz, Embaixador e Engenheiro Certificado Elastic! Se conecte comigo no [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) e vamos fazer um networking :)
+
+**Plataformas**
+- [Youtube - Tech Lipe](https://www.youtube.com/channel/UCS1MViu60VUorm217VoqTEQ/)
+- [Medium - Tech Lipe](https://medium.com/@fqueirooz80)
+
+### Como está distribuido o Material ?
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Documentação em formato de artigos no medium
+- Série - Rasgando o Bit com Elastic (Youtube)
+- Série - Resolvendo problemas com Elastic (Youtube)
+- Série - Curiosidades da Elastic (Youtube)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Mais detalhes abaixo:
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/techlipe/Guia-Completo-Elastic-Stack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [O Guia Completo da Elastic Stack - Documentação](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)
 
-### Support or Contact
+Disponível no Medium, o Guia completo da Elastic Stack está organizado em seções divididos da seguinte forma:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Elasticsearch**
+```markdown
+* 0.0 — Artigos de Apoio
+* 1.0 — Introdução e Índices
+* 2.0 — Documentos
+* 3.0 — REST API’s
+* 4.0 — Nós
+* 5.0 — Shards e Replicas
+* 6.0 — Mapeamento
+* 7.0 — Buscas
+* 8.0 — Agregações
+* 9.0 — Ingestão
+* 10 — Analisadores
+* 11 — Administração de Cluster
+* 12 — Segurança
+```
+**Logstash**
+```markdown
+* 1.0 - Pipelines no Logstash
+* 2.0 - Filtros Input
+```
+**Kibana**
+```markdown
+```
+**Beats**
+```markdown
+
+* 1.0 - Filebeat
+* 2.0 - Metricbeat
+* 3.0 - Heartbeat
+```
+
+### [Rasgando o Bit com Elastic - Youtube](https://www.youtube.com/playlist?list=PLOxUmBlyr2_6p0NbPaTmDU6sClaQBHNsz)
+Série de vídeos em formato de tutorial/curso que tem como objetivo ser um complemento visual e mais didático ao material documentado nos artigos acima. O objetivo é passar a visão técnica dos componentes e ir gradativamente aumentando o nível de complexidade dos temas.
+
+### [Resolvendo problemas com a Elastic Stack  - Youtube - Em construção]()
+Vídeos em formato mini-aula cujo objetivo é resolver ou responder alguns cases práticos reais utilizando os conhecimentos técnicos que foram abordados nas séries acima.
+
+### [Curiosidades Elastic - Youtube - Em construção]()
+Nessa série, discutiremos as mudanças, aquisições, material de eventos e futuro da Elastic Stack. 
+
+
+
+### Suporte
+
+Atualizações serão feitas nessa página, mas deixo aqui o meu email a disposição para atender qualquer eventual dúvida sua e te apoiar na sua jornada!
+
+fqueirooz80@gmail.com
+
+Abraços! 
+You Know, for Search
