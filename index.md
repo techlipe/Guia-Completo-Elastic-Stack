@@ -6,10 +6,10 @@
 Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos da Elastic _Stack_, todo em Português do Brasil.
 
 **Pra quem é esse material ?** 
-- Geral que está afim em aprender sobre a _Stack_ de ferramentas da Elastic, independente do nível de conhecimento prévio.
+- **TODO MUNDO** que está afim em aprender sobre a _Stack_ de ferramentas da Elastic, independente do nível de conhecimento prévio.
 
 **O que eu quero com tudo isso?** 
-- Quero tornar VOCÊ um _expert_ com toda a _Stack_ de produtos da Elastic, e ainda de quebra te preparar, caso tenha interesse, pras provas de Engenheiro Certificado.
+- Quero tornar **VOCÊ** um _expert_ com toda a _Stack_ de produtos da Elastic, e ainda de quebra te preparar, caso tenha interesse, pras provas de Engenheiro Certificado.
 
 **Quem sou eu ?** 
 - Felipe Queiroz, Embaixador e Engenheiro Certificado Elastic! Se conecte comigo no [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) e vamos fazer um networking :)
