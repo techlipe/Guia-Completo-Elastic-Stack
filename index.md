@@ -19,11 +19,10 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 - [Medium - Tech Lipe](https://medium.com/@fqueirooz80)
 
 ### Últimos Conteúdos
-```markdown
+| Tipo | Série | Nome do Conteúdo	| Data de Publicação
+| Artigo | Tudo que você precisa saber sobre a ferramenta de buscas da Elastic | [Gerenciando Ciclo de Vida dos Indices com ILM](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-5-fc5d0d15aa01) |09/02/2020
+ 
 
-- [Artigo - Gerenciando Ciclo de Vida dos Indices com ILM - 09/02/2020](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-5-fc5d0d15aa01)
-
-```
 
 ### Como está distribuido o Material ?
 
