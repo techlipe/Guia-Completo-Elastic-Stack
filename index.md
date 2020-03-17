@@ -18,7 +18,9 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 - [Youtube - Tech Lipe](https://www.youtube.com/channel/UCS1MViu60VUorm217VoqTEQ/)
 - [Medium - Tech Lipe](https://medium.com/@fqueirooz80)
 
+
 ### Últimos Conteúdos
+
 | Tipo | Série | Nome do Conteúdo	| Data de Publicação
 | :---:| :---: | :---: | :---: |
 | Artigo | O Guia Completo da Elastic Stack | [Gerenciando Ciclo de Vida dos Indices com ILM](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-5-fc5d0d15aa01) |09/02/2020
