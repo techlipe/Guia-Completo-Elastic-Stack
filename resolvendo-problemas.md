@@ -2,7 +2,7 @@
 
 ![TL](banner-tl.png)
 
-## Resolvendo problemas com Elastic - Série no Youtube - Em Construção
+## Resolvendo problemas com Elastic - Série no Youtube - EM CONSTRUÇÃO
 
 **Objetivo:**
 - Vídeos em formato mini-aula cujo objetivo é resolver ou responder alguns cases práticos reais utilizando os conhecimentos técnicos que foram abordados nas outras séries.
