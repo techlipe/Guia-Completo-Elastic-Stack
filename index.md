@@ -36,44 +36,10 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 - Série - Curiosidades da Elastic (Youtube)
 ```
 
-Mais detalhes abaixo:
+Mais detalhes nos links abaixo:
 
-
-### [O Guia Completo da Elastic Stack - Documentação](https://medium.com/@fqueirooz80/o-guia-completo-da-elastic-stack-5a3ba9a84a85)
-
-Disponível no Medium, o Guia completo da Elastic Stack está organizado em seções divididos da seguinte forma:
-
-**Elasticsearch**
-```markdown
-* 0.0 — Artigos de Apoio
-* 1.0 — Introdução e Índices
-* 2.0 — Documentos
-* 3.0 — REST API’s
-* 4.0 — Nós
-* 5.0 — Shards e Replicas
-* 6.0 — Mapeamento
-* 7.0 — Buscas
-* 8.0 — Agregações
-* 9.0 — Ingestão
-* 10 — Analisadores
-* 11 — Administração de Cluster
-* 12 — Segurança
-```
-**Logstash**
-```markdown
-* 1.0 - Pipelines no Logstash
-* 2.0 - Filtros Input
-```
-**Kibana**
-```markdown
-```
-**Beats**
-```markdown
-
-* 1.0 - Filebeat
-* 2.0 - Metricbeat
-* 3.0 - Heartbeat
-```
+- 1. [Guia Completo da Elastic Stack - Documentação](https://techlipe.github.io/Guia-Completo-Elastic-Stack/guia-completo)
+- 2. [Rasgando o Bit com Elastic - Yotutube](https://www.youtube.com/playlist?list=PLOxUmBlyr2_6p0NbPaTmDU6sClaQBHNsz)
 
 ### [Rasgando o Bit com Elastic - Youtube](https://www.youtube.com/playlist?list=PLOxUmBlyr2_6p0NbPaTmDU6sClaQBHNsz)
 Série de vídeos em formato de tutorial/curso que tem como objetivo ser um complemento visual e mais didático ao material documentado nos artigos acima. O objetivo é passar a visão técnica dos componentes e ir gradativamente aumentando o nível de complexidade dos temas.
@@ -88,9 +54,9 @@ Nessa série, discutiremos as mudanças, aquisições, material de eventos e fut
 
 ### Suporte
 
-Atualizações serão feitas nessa página, mas deixo aqui o meu email a disposição para atender qualquer eventual dúvida sua e te apoiar na sua jornada!
+Atualizações serão feitas nessa página, mas caso queira tirar alguma dúvida ou sugerir algum conteúdo, peço que por gentileza abra uma issue no repositorio abaixo.
 
-fqueirooz80@gmail.com
+https://github.com/techlipe/Guia-Completo-Elastic-Stack
 
 Abraços! 
 You Know, for Search
