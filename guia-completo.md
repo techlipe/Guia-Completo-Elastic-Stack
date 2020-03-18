@@ -25,8 +25,7 @@ Disponibilizado no medium, esse material tem como objetivo ser uma coleção de 
 | Elasticsearch | Buscas |[Terms e Match](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-7-1-3f8772ac1fb4) | 31/01/2020
 | Elasticsearch | Mapeamento |[Ciclo de Vida dos Índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-4-fc5d0d15aa01) | 09/02/2020
 | Elasticsearch | Mapeamento |[Index Templates](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-3-b98f56d04e0) | 31/01/2020
-| Elasticsearch | Mapeamento |[Mapeamento Dinâmico](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-
-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-2-a1c0effd4dc0) | 31/01/2020
+| Elasticsearch | Mapeamento |[Mapeamento Dinâmico](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-2-a1c0effd4dc0) | 31/01/2020
 | Elasticsearch | Mapeamento |[FTS vs Keyword](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-1-582332c70d11) | 31/01/2020
 | Elasticsearch | Mapeamento |[Introdução a Mapeamento](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-c31627aa740b) | 31/01/2020
 | Elasticsearch | Shards e Replicas |[ Alocação de Shards em Nível de Índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-5-1-7ac9a07a9558) | 31/01/2020
