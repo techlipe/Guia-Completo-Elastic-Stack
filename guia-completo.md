@@ -3,8 +3,9 @@
 
 ## Guia Completo da Elastic Stack - Documentação
 
-**Objetivo**
-Disponibilizado no medium, esse material tem como objetivo ser uma coleção de documentos (alguns interligados) cujo objetivo é, de maneira didática com teoria alinhada a prática, traduzir componentes dentro das ferramentas da Elastic Stack para implementações próximas da realidade.
+**Objetivo:**
+
+- Disponibilizado no medium, esse material tem como objetivo ser uma coleção de documentos (alguns interligados) cujo objetivo é, de maneira didática com teoria alinhada a prática, traduzir componentes dentro das ferramentas da Elastic Stack para implementações próximas da realidade, além de ser documentos complementares as séries de videos.
 
 
 | Componente | Aplicação Prática |Nome do Conteúdo	| Data de Publicação
