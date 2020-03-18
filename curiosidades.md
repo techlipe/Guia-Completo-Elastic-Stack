@@ -1,4 +1,5 @@
-| [Home](https://techlipe.github.io/Guia-Completo-Elastic-Stack) |
+| [Home](https://techlipe.github.io/guia-completo) |
+
 ![TL](banner-tl.png)
 
 ## Curiosidades Elastic - Série no Youtube - EM CONSTRUÇÃO
