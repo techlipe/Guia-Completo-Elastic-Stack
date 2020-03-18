@@ -1,4 +1,5 @@
 | [Home](https://techlipe.github.io/Guia-Completo-Elastic-Stack) |
+
 ![TL](banner-tl.png)
 
 ## [Rasgando o Bit com Elastic - Série no Youtube](https://www.youtube.com/playlist?list=PLOxUmBlyr2_6p0NbPaTmDU6sClaQBHNsz)
