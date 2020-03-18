@@ -38,17 +38,10 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 
 Mais detalhes nos links abaixo:
 
-- 1. [Guia Completo da Elastic Stack - Documentação](https://techlipe.github.io/Guia-Completo-Elastic-Stack/guia-completo)
-- 2. [Rasgando o Bit com Elastic - Yotutube](https://www.youtube.com/playlist?list=PLOxUmBlyr2_6p0NbPaTmDU6sClaQBHNsz)
-
-### [Rasgando o Bit com Elastic - Youtube](https://www.youtube.com/playlist?list=PLOxUmBlyr2_6p0NbPaTmDU6sClaQBHNsz)
-Série de vídeos em formato de tutorial/curso que tem como objetivo ser um complemento visual e mais didático ao material documentado nos artigos acima. O objetivo é passar a visão técnica dos componentes e ir gradativamente aumentando o nível de complexidade dos temas.
-
-### [Resolvendo problemas com a Elastic Stack  - Youtube - Em construção]()
-Vídeos em formato mini-aula cujo objetivo é resolver ou responder alguns cases práticos reais utilizando os conhecimentos técnicos que foram abordados nas séries acima.
-
-### [Curiosidades Elastic - Youtube - Em construção]()
-Nessa série, discutiremos as mudanças, aquisições, material de eventos e futuro da Elastic Stack. 
+1. [Guia Completo da Elastic Stack - Documentação](https://techlipe.github.io/Guia-Completo-Elastic-Stack/guia-completo)
+2. [Rasgando o Bit com Elastic - Yotutube](https://techlipe.github.io/Guia-Completo-Elastic-Stack/rasgando-o-bit-com-elastic)
+3. [Resolvendo problemas com Elastic - Yotutube - Em construção](https://techlipe.github.io/Guia-Completo-Elastic-Stack/resolvendo-problemas)
+4. [Curiosidades Elastic - Yotutube - Em construção](https://techlipe.github.io/Guia-Completo-Elastic-Stack/curiosidades)
 
 
 
