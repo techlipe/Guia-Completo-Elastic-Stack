@@ -6,9 +6,12 @@
 **Objetivo**
 Disponibilizado no medium, esse material tem como objetivo ser uma coleção de documentos (alguns interligados) cujo objetivo é, de maneira didática com teoria alinhada a prática, traduzir componentes dentro das ferramentas da Elastic Stack para implementações próximas da realidade.
 
+
 | Componente | Aplicação Prática |Nome do Conteúdo	| Data de Publicação
 | :---: | :---: | :---: | :---: |
 | Elasticsearch | Segurança |[Gestão de Papéis](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-12-3-980ce64b2554) | 31/01/2020
+| Elasticsearch | Segurança |[Gestão de Usuários](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-
+a-ferramenta-de-buscas-da-elastic-parte-12-2-dce4a4ab89ab) | 31/01/2020
 | Elasticsearch | Segurança |[Habilitando HTTPS](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-12-1-954b053f23e5) | 31/01/2020
 | Elasticsearch | Segurança |[Introdução a Segurança](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-12-40875483dd7e)| 31/01/2020
 | Elasticsearch | Administração de Cluster |[Backup e Restore](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-11-1-67585d1c7715)| 31/01/2020
