@@ -3,6 +3,7 @@
 
 ## Guia Completo da Elastic Stack - Documentação
 
+*Objetivo*
 Disponibilizado no medium, esse material tem como objetivo ser uma coleção de documentos (alguns interligados) cujo objetivo é, de maneira didática com teoria alinhada a prática, traduzir componentes dentro das ferramentas da Elastic Stack para implementações próximas da realidade.
 
 | Componente | Aplicação Prática |Nome do Conteúdo	| Data de Publicação
@@ -21,5 +22,8 @@ Disponibilizado no medium, esse material tem como objetivo ser uma coleção de 
 | Elasticsearch | Agregações |[Introdução a Agregações](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-8-98abcb4335a4?postPublishedType=initial) | 31/01/2020
 | Elasticsearch | Buscas |[Boolean Query](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-7-2-cf559e8ef082) | 31/01/2020
 | Elasticsearch | Buscas |[Terms e Match](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-7-1-3f8772ac1fb4) | 31/01/2020
-| Elasticsearch | Ciclo de Vida dos Índices |[Ciclo de Vida dos Índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-5-fc5d0d15aa01) | 31/01/2020
-| Elasticsearch | Index Templates |[Index Templates](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-3-b98f56d04e0) | 31/01/2020
+| Elasticsearch | Mapeamento |[Ciclo de Vida dos Índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-4-fc5d0d15aa01) | 31/01/2020
+| Elasticsearch | Mapeamento |[Index Templates](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-3-b98f56d04e0) | 31/01/2020
+| Elasticsearch | Mapeamento |[Mapeamento Dinâmico](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-2-a1c0effd4dc0) | 31/01/2020
+| Elasticsearch | Mapeamento |[FTS vs Keyword](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-1-582332c70d11) | 31/01/2020
+| Elasticsearch | Mapeamento |[Introdução a Mapeamento](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-c31627aa740b) | 31/01/2020
