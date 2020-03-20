@@ -23,6 +23,7 @@ Aqui você encontrará uma enorme quantidade de conteúdo de todos os produtos d
 
 | Tipo | Série | Nome do Conteúdo	| Data de Publicação
 | :---:| :---: | :---: | :---: |
+| Artigo | O Guia Completo da Elastic Stack | [Padrões de Produção de Nós](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-4-1-f22b5ca8aa72l) | 20/03/2020
 | Artigo | O Guia Completo da Elastic Stack | [Gerenciando Ciclo de Vida dos Indices com ILM](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-5-fc5d0d15aa01) |09/02/2020
  
 
