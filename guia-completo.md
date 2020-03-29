@@ -28,10 +28,8 @@
 | Elasticsearch | Buscas |[Terms e Match](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-7-1-3f8772ac1fb4) | 31/01/2020
 | Elasticsearch | Buscas |[Boolean Query](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-7-2-cf559e8ef082) | 31/01/2020
 | Elasticsearch | Agregações |[Introdução a Agregações](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-8-98abcb4335a4?postPublishedType=initial) | 31/01/2020
-| Elasticsearch | Agregações |[Casos práticas de Agregações](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-8-1-a044ec33018d) | 
-31/01/2020
-| Elasticsearch | Ingestão |[Processadores de Ingestão - Set](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-9-1-6c9e30242d67)| 
-31/01/2020
+| Elasticsearch | Agregações |[Casos práticas de Agregações](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-8-1-a044ec33018d) | 31/01/2020
+| Elasticsearch | Ingestão |[Processadores de Ingestão - Set](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-9-1-6c9e30242d67)| 31/01/2020
 | Elasticsearch | Ingestão |[Processadores de Ingestão - Foreach](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-9-2-d24991f7d366)| 31/01/2020
 | Elasticsearch | Analisadores |[Analisadores - Conceito](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-10-8e34ceb8f5a0)| 31/01/2020
 | Elasticsearch | Analisadores |[Introdução a Analisadores](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-10-1-d95e546eacb1)| 31/01/2020
