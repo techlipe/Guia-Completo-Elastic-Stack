@@ -1,4 +1,4 @@
-| [Home](https://techlipe.github.io/Guia-Completo-Elastic-Stack) | | [Documentação](https://techlipe.github.io/Guia-Completo-Elastic-Stack/guia-completo) | [Videos](https://techlipe.github.io/Guia-Completo-Elastic-Stack/rasgando-o-bit-com-elastic) | 
+| [Home](https://techlipe.github.io/Guia-Completo-Elastic-Stack) | [Documentação](https://techlipe.github.io/Guia-Completo-Elastic-Stack/guia-completo) | [Videos](https://techlipe.github.io/Guia-Completo-Elastic-Stack/rasgando-o-bit-com-elastic) | 
 
 ![TL](banner-tl.png)
 ## Guia Completo da Elastic Stack
