@@ -90,6 +90,10 @@
 
 ## Logstash
 
+### Bonus
+
+* [Logstash em 1h - Conteúdo do Elastic Virtual Week Dia 04](https://techlipe.github.io/Workshop-Zero-To-Hero/dia04-logstash)
+
 ### Capítulo 1 - Implementando Pipelines no Logstash
 
 * [1.1 — Arquitetura de Pipelines](https://medium.com/@fqueirooz80/implementando-um-pipeline-no-logstash-parte-1-introdu%C3%A7%C3%A3o-e-arquitetura-de-pipelines-82ab73f54bcc)
