@@ -9,9 +9,9 @@
 
 - Disponibilizado no medium, esse material tem como objetivo ser uma coleção de documentos (alguns interligados) cujo objetivo é, de maneira didática com teoria alinhada a prática, traduzir componentes dentro das ferramentas da Elastic Stack para implementações próximas da realidade, além de ser documentos complementares as séries de videos.
 
-# Elasticsearch 
+## Elasticsearch 
 
-## 0.0 Artigos de Apoio
+### 0.0 --- Artigos de Apoio
 
 * Instalação básica do Elasticsearch para laboratórios;
 * Utilizar o processamento de arquivos no machine learning do Elasticsearch para processar uma base de Filmes do imdb.
