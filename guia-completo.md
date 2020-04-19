@@ -20,7 +20,7 @@
 ### Capítulo 1 - Introdução ao Elasticsearch
 
 * [1.1 - O que é o coração da Elastic Stack e como funcionam os índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-1-28a91108c45d)
-* [Bonus: Conteúdo do 3o Dia de Elastic Virtual Week: Elasticsearch](https://techlipe.github.io/Workshop-Zero-To-Hero/dia03-elasticsearch)
+* [Bonus: Elasticsearch em 1h - Conteúdo do Elastic Virtual Week Dia 03](https://techlipe.github.io/Workshop-Zero-To-Hero/dia03-elasticsearch)
 
 ### Capítulo 2 - Documentos
 
