@@ -19,22 +19,62 @@
 
 ### Capítulo 1 - Introdução ao Elasticsearch
 
-* [O que é o coração da Elastic Stack e como funcionam os índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-1-28a91108c45d)
+* [1.1 - O que é o coração da Elastic Stack e como funcionam os índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-1-28a91108c45d)
 * [Bonus: Conteúdo do 3o Dia de Elastic Virtual Week: Elasticsearch]()
 
 ### Capítulo 2 - Documentos
 
-* [O que são documentos na prática](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-2-fc8239b67508)
+* [2.0 - O que são documentos na prática](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-2-fc8239b67508)
 
 ### Capítulo 3 - REST API's
 
-* [Introdução as API’s do Elasticsearch](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-3-9d2dae16e160)
+* [3.0 - Introdução as API’s do Elasticsearch](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-3-9d2dae16e160)
 
 ### Capítulo 4 - Nós
 
-* [Introdução e Tipos de Nós](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-4-n%C3%B3s-315e5e5316cc?postPublishedType=initial)
+* [4.1 - Introdução e Tipos de Nós](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-4-n%C3%B3s-315e5e5316cc?postPublishedType=initial)
 
 ### Capítulo 5 - Índices, Shards e Replicas
 
-* [Como funcionam as Shards](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-5-73895e0e7e65?postPublishedType=initial)
-* [Alocação de Shards em Nível de Índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-5-1-7ac9a07a9558)
+* [5.1 - Como funcionam as Shards](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-5-73895e0e7e65?postPublishedType=initial)
+* [5.2 - Alocação de Shards em Nível de Índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-5-1-7ac9a07a9558)
+
+### Capítulo 6 - Mapeamento
+
+* [6.0 - Introdução a Mapeamento dos índices e Nested Objects](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-c31627aa740b) 
+
+* [ 6.1 - FTS vs Keyword — Diferenças de Campos textuais](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-1-582332c70d11)
+
+* [6.2 — Mapeamento Dinâmico](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-2-a1c0effd4dc0)
+
+* [6.3 — Index Templates](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-3-b98f56d04e0)
+
+* [6.4 — Ciclo de vida dos índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-6-5-fc5d0d15aa01)
+
+
+### Capítulo 7 - Buscas
+
+* [7.1 - Introdução a Buscas](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-7-e7ee90e45647)
+
+* [7.1 - Terms e Match](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-7-1-3f8772ac1fb4)
+
+* [7.2 - Boolean Query](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-7-2-cf559e8ef082)
+
+
+### Capítulo 8 - Agregações
+
+### Capítulo 9 - Ingestão
+
+### Capítulo 10 - Analisadores
+
+### Capítulo 11 - Administração de Cluster
+
+### Capítulo 12 - Segurança
+
+
+
+## Logstash
+
+### Capítulo 5 - Índices, Shards e Replicas
+
+### Capítulo 5 - Índices, Shards e Replicas
