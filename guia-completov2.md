@@ -13,8 +13,8 @@
 
 ### Capítulo 0 - Artigos de Apoio
 
-* Instalação básica do Elasticsearch para laboratórios;
-* Utilizar o processamento de arquivos no machine learning do Elasticsearch para processar uma base de Filmes do imdb.
+* [Instalação básica do Elasticsearch para laboratórios](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-apoio-39f6c005c2dd)
+* [Utilizar o processamento de arquivos no machine learning do Elasticsearch para processar uma base de Filmes do imdb](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-apoio-86d0973823d0)
 
 
 ### Capítulo 1 - Introdução ao Elasticsearch
@@ -32,4 +32,9 @@
 
 ### Capítulo 4 - Nós
 
-* []()
+* [Introdução e Tipos de Nós](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-4-n%C3%B3s-315e5e5316cc?postPublishedType=initial)
+
+### Capítulo 5 - Índices, Shards e Replicas
+
+* [Como funcionam as Shards](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-5-73895e0e7e65?postPublishedType=initial)
+* [Alocação de Shards em Nível de Índices](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-parte-5-1-7ac9a07a9558)
