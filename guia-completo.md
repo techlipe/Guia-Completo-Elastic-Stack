@@ -11,6 +11,10 @@
 
 ## Elasticsearch 
 
+### Workshop - O Caminho para Elastic Certified
+
+* [Dia 01 - Benefícios de se tornar Elastic Certified + Segurança para Dashboards](https://www.youtube.com/watch?v=pygYIx-8cC8&ab_channel=TechLipe)
+
 ### Capítulo 0 - Artigos de Apoio
 
 * [Instalação básica do Elasticsearch para laboratórios](https://medium.com/@fqueirooz80/elasticsearch-tudo-que-voc%C3%AA-precisa-saber-sobre-a-ferramenta-de-buscas-da-elastic-apoio-39f6c005c2dd)
