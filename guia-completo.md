@@ -13,7 +13,7 @@
 
 ### Workshop - O Caminho para Elastic Certified
 
-* [Dia 01 - Benefícios de se tornar Elastic Certified + Segurança para Dashboards](https://techlipe.github.io/workshop-cert-dia03)
+* [Dia 01 - Benefícios de se tornar Elastic Certified + Segurança para Dashboards](https://techlipe.github.io/Guia-Completo-Elastic-Stack/workshop-cert-dia03)
 
 ### Capítulo 0 - Artigos de Apoio
 
