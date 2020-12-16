@@ -136,8 +136,9 @@ GET _analyze
   "text": ["Cidade de Deus é um filme de ação brasileiro de 2002 produzido por O2 Filmes, Globo Filmes e Videofilmes e distribuído por Lumière Brasil. É uma adaptação roteirizada por Bráulio Mantovani a partir do livro de mesmo nome escrito por Paulo Lins. Foi dirigido por Fernando Meirelles, codirigido por Kátia Lund e estrelado por Alexandre Rodrigues, Leandro Firmino, Jonathan Haagensen, Matheus Nachtergaele, Douglas Silva e Seu Jorge.[...]"]
 }
 ```
+**Entendendo como funcionam os mapeamentos:**
 
-5. Deletando o indice e criando o mapeamento previo
+1. Deletando o indice e criando o mapeamento previo
 
 ```
 DELETE filmes
@@ -163,3 +164,67 @@ PUT filmes
   }
 }
 ```
+
+2. Indexar os dados novamentes e realizar o teste de mapeamento
+
+```
+Consultar comandos executados acima
+```
+
+3. Analisar novamente o campo descrição
+
+```
+GET filmes/_analyze
+{
+  "field": "breve_descricao",
+  "text": ["Cidade de Deus é um filme de ação brasileiro de 2002 produzido por O2 Filmes, Globo Filmes e Videofilmes e distribuído por Lumière Brasil. É uma adaptação roteirizada por Bráulio Mantovani a partir do livro de mesmo nome escrito por Paulo Lins. Foi dirigido por Fernando Meirelles, codirigido por Kátia Lund e estrelado por Alexandre Rodrigues, Leandro Firmino, Jonathan Haagensen, Matheus Nachtergaele, Douglas Silva e Seu Jorge.[...]"]
+}
+```
+
+**Introdução a Templates**
+
+1. Criando nosso primeiro template
+
+```
+PUT _template/filmes
+{
+  "index_patterns": ["filmes*"],
+  "settings": {
+    "number_of_replicas": 0,
+    "number_of_shards": 1
+  }, 
+  "mappings": {
+    "properties": {
+      "nome_do_filme" : {
+        "type": "text"
+      },
+      "ano_lancamento" : {
+        "type": "integer"
+      },
+      "idioma_original" : {
+        "type": "keyword"
+      },
+      "breve_descricao" : {
+        "type": "text", 
+        "analyzer": "portuguese"
+      }
+    }
+  }
+}
+
+```
+
+2. Teste de indexação e respeito do indice
+
+```
+PUT filmes-1/_doc/1
+{
+  "nome_do_filme": "Toy Story",
+  "ano_lancamento": 1995,
+  "idioma_original": "ingles",
+  "breve_descricao" : "Toy Story (bra: Toy Story – Um Mundo de Aventuras[3][4]; prt: Toy Story – Os Rivais[5][6]) é um filme de animação, aventura e comédia americano lançado em 1995. É conhecido por ser o primeiro filme da história do cinema a ter sido compilado inteiramente por ferramentas de computação gráfica. [...]"
+}
+
+GET filmes-1/_mapping
+```
+
