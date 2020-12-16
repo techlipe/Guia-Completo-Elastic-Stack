@@ -6,7 +6,7 @@
 * **Criado por:** Felipe Queiroz <br>
 * **Última atualização:** 16.12.2020
 
-![banner](workshop-cert-dia03.jpg)
+![banner](workshop-cert-dia03.jpg | width=720 )
 
 # Utilidades!
 
