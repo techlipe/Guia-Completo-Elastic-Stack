@@ -98,3 +98,19 @@ GET filmes/_search
 }
 ```
 
+4. Teste de analise - Analisador padrão vs um Analisador especializado no seu texto
+
+```
+GET filmes/_analyze
+{
+  "field": "breve_descricao",
+  "text": ["Cidade de Deus é um filme de ação brasileiro de 2002 produzido por O2 Filmes, Globo Filmes e Videofilmes e distribuído por Lumière Brasil. É uma adaptação roteirizada por Bráulio Mantovani a partir do livro de mesmo nome escrito por Paulo Lins. Foi dirigido por Fernando Meirelles, codirigido por Kátia Lund e estrelado por Alexandre Rodrigues, Leandro Firmino, Jonathan Haagensen, Matheus Nachtergaele, Douglas Silva e Seu Jorge.[...]"]
+}
+
+
+GET _analyze
+{
+  "analyzer": "portuguese",
+  "text": ["Cidade de Deus é um filme de ação brasileiro de 2002 produzido por O2 Filmes, Globo Filmes e Videofilmes e distribuído por Lumière Brasil. É uma adaptação roteirizada por Bráulio Mantovani a partir do livro de mesmo nome escrito por Paulo Lins. Foi dirigido por Fernando Meirelles, codirigido por Kátia Lund e estrelado por Alexandre Rodrigues, Leandro Firmino, Jonathan Haagensen, Matheus Nachtergaele, Douglas Silva e Seu Jorge.[...]"]
+}
+```
