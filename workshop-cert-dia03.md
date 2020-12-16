@@ -32,6 +32,7 @@ Vamos entender analisando um ponto interessante, como o Elasticsearch lida com i
 
 
 **Text e Keyword, como funcionam ambos:**
+
 1) Vamos indexar alguns documentos sem definir um mapeamento previo e ver como nosso índice se comporta.
 
 ```
@@ -70,11 +71,13 @@ PUT filmes/_doc/4
 ```
 
 2. Obtendo o mapeamento auto-gerado
+
 ```
 GET filmes/_mapping
 ```
 
 3. Testando as buscas
+
 ```
 GET filmes/_search
 {
