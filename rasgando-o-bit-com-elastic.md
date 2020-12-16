@@ -6,3 +6,8 @@
 
 **Objetivo:**
 - Série de vídeos em formato de tutorial/curso que tem como objetivo ser um complemento visual e mais didático ao material documentado nos artigos acima. O objetivo é passar a visão técnica dos componentes e ir gradativamente aumentando o nível de complexidade dos temas.
+
+
+## [Workshop - O Caminho para Elastic Certified](https://www.youtube.com/watch?v=pygYIx-8cC8&ab_channel=TechLipe)
+
+* [Dia 01 - Benefícios de se tornar Elastic Certified + Segurança para Dashboards](https://www.youtube.com/watch?v=pygYIx-8cC8&ab_channel=TechLipe)
