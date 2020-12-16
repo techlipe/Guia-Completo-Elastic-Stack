@@ -19,6 +19,7 @@
 ## Elasticsearch - E.D/Text vs Keyword/Mapping/Dynamic/Templates
 
 **Como funciona o padrão de estrutura de dados do Elasticsearch?**
+
 Por padrão, o usuário normalmente não deve se preocupar em criar uma estrutura de dados para suportar o seu indice. Isso se dá pelo fato de que o Elasticsearch trabalha como ferramenta _Schema-Free_.
 
 Isso ocorre por alguns fatores, dentre eles o fato de que o Elasticsearch utiliza de mapeamento dinâmico para realizar os mapeamentos dos indices de maneira automática.
