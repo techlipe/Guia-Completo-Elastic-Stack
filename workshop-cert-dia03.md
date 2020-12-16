@@ -228,3 +228,77 @@ PUT filmes-1/_doc/1
 GET filmes-1/_mapping
 ```
 
+**Implementando Dynamic Template para strings genericas no template de filmes**
+
+```
+PUT _template/filmes
+{
+  "index_patterns": ["filmes*"],
+  "settings": {
+    "number_of_replicas": 0,
+    "number_of_shards": 1
+  }, 
+  "mappings": {
+    "dynamic_templates": [
+      {
+        "inteiros": {
+          "path_match": "int_*",
+          "mapping": {
+            "type": "integer"
+          }
+        }
+      },
+      {
+        "texto": {
+          "match_mapping_type": "string",
+          "mapping": {
+            "type": "text",
+            "analyzer" : "portuguese"
+          }
+        }
+      }
+    ],
+    "properties": {
+      "nome_do_filme" : {
+        "type": "text"
+      },
+      "idioma_original" : {
+        "type": "keyword"
+      },
+      "breve_descricao" : {
+        "type": "text", 
+        "analyzer": "portuguese"
+      }
+    }
+  }
+}
+```
+
+2. Deletando o indice e inserindo um novo documento no indice filmes-1
+
+```
+DELETE filmes-1
+
+PUT filmes-1/_doc/1
+{
+  "nome_do_filme": "Toy Story",
+  "ano_lancamento": 1995,
+  "idioma_original": "ingles",
+  "breve_descricao" : "Toy Story (bra: Toy Story – Um Mundo de Aventuras[3][4]; prt: Toy Story – Os Rivais[5][6]) é um filme de animação, aventura e comédia americano lançado em 1995. É conhecido por ser o primeiro filme da história do cinema a ter sido compilado inteiramente por ferramentas de computação gráfica. [...]",
+  "campo_teste_texto" : "Esse é um texto para teste do analyzer portugues",
+  "int_teste" : "200"
+}
+```
+
+3. Teste do novo mapeamento e do Analyze
+
+```
+GET filmes-1/_mapping
+
+GET filmes-1/_analyze
+{
+  "text": ["Esse é um texto para teste do analyzer portugues"],
+  "field": "campo_teste_texto"
+}
+```
+
