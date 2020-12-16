@@ -6,6 +6,6 @@
 * **Criado por:** Felipe Queiroz <br>
 * **Última atualização:** 16.12.2020
 
-![slide](workshop-cert-dia03.jpeg)
+![banner](workshop-cert-dia03.jpg)
 
 https://www.youtube.com/watch?v=Ynn9YEDPeks
