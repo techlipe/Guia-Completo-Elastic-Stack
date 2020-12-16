@@ -13,7 +13,9 @@
 
 ### Workshop - O Caminho para Elastic Certified
 
-* [Dia 01 - Benefícios de se tornar Elastic Certified + Segurança para Dashboards](https://techlipe.github.io/Guia-Completo-Elastic-Stack/workshop-cert-dia03)
+* [Dia 01 - Benefícios de se tornar Elastic Certified + Segurança para Dashboards](https://www.youtube.com/watch?v=pygYIx-8cC8&t=2519s)
+* [Dia 02 - Resolvendo o seu primeiro problema de relevância - Entendendo o Sistema de Tokens e Query Scoring](https://github.com/villasv/relevant-search-book/blob/master/ipython/Chapter%2003%20-%20Solving%20your%20first%20relevance%20problem.ipynb)
+* [Dia 03 - Passo a passo da Certificação e como se preparar para ela](https://techlipe.github.io/Guia-Completo-Elastic-Stack/workshop-cert-dia03)
 
 ### Capítulo 0 - Artigos de Apoio
 
