@@ -8,7 +8,7 @@
 
 ![banner](workshop-cert-dia03.jpg)
 
-## Utilidades!
+# Utilidades!
 
 [Video do dia](https://www.youtube.com/watch?v=Ynn9YEDPeks)
 
