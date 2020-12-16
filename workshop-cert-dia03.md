@@ -22,7 +22,7 @@
 
 Por padrão, o usuário normalmente não deve se preocupar em criar uma estrutura de dados para suportar o seu indice. Isso se dá pelo fato de que o Elasticsearch trabalha como ferramenta _Schema-Free_.
 
-![schema](slide-01.jpg)
+![4](slide-04.jpg)
 
 Isso ocorre por alguns fatores, dentre eles o fato de que o Elasticsearch utiliza de mapeamento dinâmico para realizar os mapeamentos dos indices de maneira automática. Vamos daqui a pouco como ele se comporta.
 
@@ -30,10 +30,14 @@ O ponto é, deixar o Elasticsearch mapear automaticamente é uma boa prática pr
 
 A resposta é **não**.
 
+![3](slide-03.jpg)
+
 Vamos entender analisando um ponto interessante, como o Elasticsearch lida com indexação de campos do tipo "string/texto" por padrão?
 
 
 **Text e Keyword, como funcionam ambos:**
+
+![1](slide-01.jpg)
 
 1) Vamos indexar alguns documentos sem definir um mapeamento previo e ver como nosso índice se comporta.
 
@@ -138,6 +142,8 @@ GET _analyze
   "text": ["Cidade de Deus é um filme de ação brasileiro de 2002 produzido por O2 Filmes, Globo Filmes e Videofilmes e distribuído por Lumière Brasil. É uma adaptação roteirizada por Bráulio Mantovani a partir do livro de mesmo nome escrito por Paulo Lins. Foi dirigido por Fernando Meirelles, codirigido por Kátia Lund e estrelado por Alexandre Rodrigues, Leandro Firmino, Jonathan Haagensen, Matheus Nachtergaele, Douglas Silva e Seu Jorge.[...]"]
 }
 ```
+![2](slide-02.jpg)
+
 **Entendendo como funcionam os mapeamentos:**
 
 1. Deletando o indice e criando o mapeamento previo
