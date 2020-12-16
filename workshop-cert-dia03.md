@@ -22,6 +22,13 @@
 
 Por padrão, o usuário normalmente não deve se preocupar em criar uma estrutura de dados para suportar o seu indice. Isso se dá pelo fato de que o Elasticsearch trabalha como ferramenta _Schema-Free_.
 
-Isso ocorre por alguns fatores, dentre eles o fato de que o Elasticsearch utiliza de mapeamento dinâmico para realizar os mapeamentos dos indices de maneira automática.
+Isso ocorre por alguns fatores, dentre eles o fato de que o Elasticsearch utiliza de mapeamento dinâmico para realizar os mapeamentos dos indices de maneira automática. Vamos daqui a pouco como ele se comporta.
 
 O ponto é, deixar o Elasticsearch mapear automaticamente é uma boa prática pra produção?
+
+A resposta é **não**.
+
+Vamos entender analisando um ponto interessante, como o Elasticsearch lida com indexação de campos do tipo "string/texto" por padrão?
+
+**Text e Keyword, como funcionam ambos**
+
