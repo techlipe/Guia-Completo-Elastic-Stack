@@ -69,4 +69,29 @@ PUT filmes/_doc/4
 
 ```
 
+2. Obtendo o mapeamento auto-gerado
+```
+GET filmes/_mapping
+```
+
+3. Testando as buscas
+```
+GET filmes/_search
+{
+  "query": {
+    "match": {
+      "nome_do_filme": "Toy"
+    }
+  }
+}
+
+GET filmes/_search
+{
+  "query": {
+    "match": {
+      "nome_do_filme": "Deus"
+    }
+  }
+}
+```
 
