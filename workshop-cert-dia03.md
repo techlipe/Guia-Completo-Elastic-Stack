@@ -191,6 +191,8 @@ GET filmes/_analyze
 
 **Introdução a Templates**
 
+![5](slide-05.jpg)
+
 1. Criando nosso primeiro template
 
 ```
