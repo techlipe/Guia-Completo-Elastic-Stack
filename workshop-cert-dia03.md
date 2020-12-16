@@ -96,11 +96,33 @@ GET filmes/_search
     }
   }
 }
+
+GET filmes/_search
+{
+  "query": {
+    "match": {
+      "nome_do_filme.keyword": "Cidade de Deus"
+    }
+  }
+}
+
 ```
 
 4. Teste de analise - Analisador padrão vs um Analisador especializado no seu texto
 
 ```
+GET filmes/_analyze
+{
+  "field": "nome_do_filme",
+  "text": ["Toy Story"]
+}
+
+GET filmes/_analyze
+{
+  "field": "nome_do_filme.keyword",
+  "text": ["Toy Story"]
+}
+
 GET filmes/_analyze
 {
   "field": "breve_descricao",
